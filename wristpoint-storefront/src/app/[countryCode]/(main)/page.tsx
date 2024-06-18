@@ -73,11 +73,11 @@ export default async function Home({
     <>
       <Hero />
       <Offers />
-      {/* <div className="py-12">
+      <div className="py-12">
         <ul className="flex flex-col gap-x-6">
           <FeaturedProducts collections={collections} region={region} />
         </ul>
-      </div> */}
+      </div>
       <Blog />
       <Reviews />
       <AboutUs />
