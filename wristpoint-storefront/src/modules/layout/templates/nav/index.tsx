@@ -47,6 +47,13 @@ export default async function Nav() {
             >
               About Us
             </LocalizedClientLink>
+            <LocalizedClientLink
+              href="/contactus"
+              className="txt-compact-xlarge-plus hover:text-ui-fg-base"
+              data-testid="nav-store-link"
+            >
+              Contact Us
+            </LocalizedClientLink>
           </div>
 
           <div className="flex items-center gap-x-6 h-full flex-1 basis-0 justify-end">

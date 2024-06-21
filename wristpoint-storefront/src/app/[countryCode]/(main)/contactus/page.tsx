@@ -8,7 +8,7 @@ const ContactUs = () => {
       <div className="flex flex-col justify-center lg:flex-row">
         <div className="flex justify-center items-center lg:w-1/4">
           <Image
-            src={require("../../../public/Contact us-rafiki.svg")}
+            src={require("../../../../../public/Contact us-rafiki.svg")}
             height={300}
             width={300}
             quality={100}
