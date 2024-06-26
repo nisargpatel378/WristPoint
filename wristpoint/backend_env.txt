@@ -1,0 +1,5 @@
+DATABASE_TYPE=postgres
+DATABASE_URL=postgres://wristpoint_user:z8rRmduwz9XsD8miRAoLREpGfqTj0N7F@dpg-cpjtqdicn0vc73asgpdg-a.singapore-postgres.render.com/wristpoint?sslmode=require
+MEDUSA_ADMIN_ONBOARDING_TYPE=nextjs
+STORE_CORS=http://localhost:8000,http://localhost:7001
+MEDUSA_ADMIN_ONBOARDING_NEXTJS_DIRECTORY=wristpoint-storefront
