@@ -37,8 +37,7 @@ const ProductTemplate: React.FC<ProductTemplateProps> = ({
         <div className="lg:w-1/2 flex flex-col">
           <div className="flex-1 overflow-hidden">
             <ImageGallery 
-              images={product?.images || []} 
-              className="grid grid-cols-2 gap-4" 
+              images={product?.images || []}
             />
           </div>
         </div>

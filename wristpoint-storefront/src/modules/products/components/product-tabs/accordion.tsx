@@ -62,6 +62,7 @@ const Item: React.FC<AccordionItemProps> = ({
               <Text className="text-ui-fg-subtle text-sm">{title}</Text>
             </div>
             {/* @ts-expect-error */}
+
             <AccordionPrimitive.Trigger>
               {customTrigger || <MorphingTrigger />}
             </AccordionPrimitive.Trigger>
@@ -74,6 +75,7 @@ const Item: React.FC<AccordionItemProps> = ({
         </div>
       </AccordionPrimitive.Header>
       {/* @ts-expect-error */}
+
       <AccordionPrimitive.Content
         forceMount={forceMountContent}
         className={clx(

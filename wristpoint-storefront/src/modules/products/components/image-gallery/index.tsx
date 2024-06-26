@@ -1,4 +1,5 @@
 import { Image as MedusaImage } from "@medusajs/medusa"
+import Medusa from "@medusajs/medusa-js"
 import { Container } from "@medusajs/ui"
 import Image from "next/image"
 

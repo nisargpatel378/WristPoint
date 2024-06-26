@@ -22,9 +22,9 @@ const page = () => {
                 />
               </div>
               <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                "Crafting digital dreams with code wizardry, weaving innovation
+                Crafting digital dreams with code wizardry, weaving innovation
                 into every pixel. Where passion meets precision, we engineer the
-                future of the web, one line at a time."
+                future of the web, one line at a time.
               </p>
             </div>
             <div className="flex flex-wrap -m-4 justify-center">
@@ -73,7 +73,7 @@ const page = () => {
               <div className="p-4 lg:w-1/6 md:w-1/2">
                 <div className="transition ease-in duration-300 transform hover:scale-105 h-full flex flex-col items-center text-center">
                   <Image
-                    src={require("../../../../../../wristpoint-storefront/public/aboutus-images/rohan.jpg")}
+                    src={require("../../../../../public/aboutus-images/rohan.jpg")}
                     height={100}
                     width={100}
                     quality={100}
@@ -154,10 +154,10 @@ const page = () => {
                   </div>
                 </div>
               </div>
-              <div className="p-4 lg:w-1/6 md:w-1/2">
+              {/* <div className="p-4 lg:w-1/6 md:w-1/2">
                 <div className="transition ease-in duration-300 transform hover:scale-105 h-full flex flex-col items-center text-center">
                   <Image
-                    src={require("../../../../../../wristpoint-storefront/public/aboutus-images/swet.jpg")}
+                    src={require("../../../../../public/aboutus-images/swet.jpg")}
                     height={100}
                     width={100}
                     quality={100}
@@ -195,7 +195,7 @@ const page = () => {
                     </span>
                   </div>
                 </div>
-              </div>
+              </div>*/}
             </div>
             <div className="flex flex-wrap -m-4 justify-center">
               <div className="p-4 lg:w-1/6 h-1/2 md:w-1/2">
@@ -282,10 +282,11 @@ const page = () => {
                   </div>
                 </div>
               </div>
-              <div className="p-4 lg:w-1/6 md:w-1/2">
+              /
+              {/* <div className="p-4 lg:w-1/6 md:w-1/2">
                 <div className="transition ease-in duration-300 transform hover:scale-105 h-full flex flex-col items-center text-center">
                   <Image
-                    src={require("../../../../../../wristpoint-storefront/public/aboutus-images/mansi.jpg")}
+                    src={require("../../../../../public/aboutus-images/mansi.jpg")}
                     height={100}
                     width={100}
                     quality={100}
@@ -324,6 +325,7 @@ const page = () => {
                   </div>
                 </div>
               </div>
+              */}
               <div className="p-4 lg:w-1/6 md:w-1/2">
                 <div className="transition ease-in duration-300 transform hover:scale-105 h-full flex flex-col items-center text-center">
                   <Image

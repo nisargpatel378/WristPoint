@@ -22,9 +22,9 @@ const page = () => {
                 />
               </div>
               <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                "Crafting digital dreams with code wizardry, weaving innovation
+                Crafting digital dreams with code wizardry, weaving innovation
                 into every pixel. Where passion meets precision, we engineer the
-                future of the web, one line at a time."
+                future of the web, one line at a time.
               </p>
             </div>
             <div className="flex flex-wrap -m-4 justify-center">
