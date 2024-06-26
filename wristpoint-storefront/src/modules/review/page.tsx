@@ -23,7 +23,7 @@ const review = () => {
                 I recently purchased a Rolex Submariner from Wristpoint, and the
                 experience was exceptional. The website had a comprehensive
                 selection of luxury watches, and I found the exact model I
-                wanted. The customer service team was very responsive and
+                wanted. The Customer service team was very responsive and
                 answered all my questions promptly.My watch arrived on
                 time,beautifully packaged, and in perfect condition. I will
                 definitely shop here again!
