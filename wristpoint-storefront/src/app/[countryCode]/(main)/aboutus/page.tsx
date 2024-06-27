@@ -154,7 +154,7 @@ const page = () => {
                   </div>
                 </div>
               </div>
-              {/* <div className="p-4 lg:w-1/6 md:w-1/2">
+              <div className="p-4 lg:w-1/6 md:w-1/2">
                 <div className="transition ease-in duration-300 transform hover:scale-105 h-full flex flex-col items-center text-center">
                   <Image
                     src={require("../../../../../public/aboutus-images/swet.jpg")}
@@ -195,7 +195,7 @@ const page = () => {
                     </span>
                   </div>
                 </div>
-              </div>*/}
+              </div>
             </div>
             <div className="flex flex-wrap -m-4 justify-center">
               <div className="p-4 lg:w-1/6 h-1/2 md:w-1/2">
@@ -283,7 +283,7 @@ const page = () => {
                 </div>
               </div>
               /
-              {/* <div className="p-4 lg:w-1/6 md:w-1/2">
+              <div className="p-4 lg:w-1/6 md:w-1/2">
                 <div className="transition ease-in duration-300 transform hover:scale-105 h-full flex flex-col items-center text-center">
                   <Image
                     src={require("../../../../../public/aboutus-images/mansi.jpg")}
@@ -325,7 +325,6 @@ const page = () => {
                   </div>
                 </div>
               </div>
-              */}
               <div className="p-4 lg:w-1/6 md:w-1/2">
                 <div className="transition ease-in duration-300 transform hover:scale-105 h-full flex flex-col items-center text-center">
                   <Image
